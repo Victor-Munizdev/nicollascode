@@ -1,9 +1,5 @@
 <h1 align="center">Olá! eu sou o Nicollas Silva 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=673DE6&center=true&vCenter=true&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Estudante+de+TI+e+Cibersegurança" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim

@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Olá! eu sou o Nicollas Silva 👋</h1>
 
-<!--
-**NicollasCode/nicollascode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=673DE6&center=true&vCenter=true&lines=Desenvolvedor+Fullstack;Apaixonado+por+tecnologia;Estudante+de+TI+e+Cibersegurança" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 💻 Técnico em TI com foco em programação e cibersegurança  
+- 🚀 Em busca de oportunidades para trabalhar com desenvolvimento e inovação  
+- 📚 Estudando para trabalhar com instituições como a NASA  
+- ✨ Desenvolvendo projetos próprios em GitHub, Java, Web e mais
+
+---
+
+### 🛠️ Tecnologias que uso
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python" />
+</p>
+
+---
+
+### 📈 Minhas estatísticas no GitHub
+
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicollascode&show_icons=true&theme=midnight-purple" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollascode&layout=compact&theme=midnight-purple" />
+</div>
+
+---
+
+### 🐍 Cobrinha do GitHub
+
+![snake gif](https://github.com/nicollascode/nicollascode/blob/output/github-contribution-grid-snake.svg)

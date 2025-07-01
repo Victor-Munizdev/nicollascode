@@ -23,11 +23,8 @@
 
 ---
 
-### 📈 Minhas estatísticas no GitHub
-
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nicollascode&show_icons=true&theme=midnight-purple" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollascode&layout=compact&theme=midnight-purple" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=nicollascode&show_icons=true&theme=midnight-purple" />
 </div>
 
 ---

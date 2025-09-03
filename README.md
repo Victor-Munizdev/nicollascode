@@ -21,6 +21,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="Python" />
 </p>
 
+## Minhas Conquistas
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nicollascode&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Nicollascode" />
+</div>
+
 ---
 
 <div align="center">

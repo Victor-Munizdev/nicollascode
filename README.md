@@ -42,3 +42,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=nicollascode&color=blueviolet&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/nicollascode?style=for-the-badge&color=blue)
 ![GitHub User's stars](https://img.shields.io/github/stars/nicollascode?style=for-the-badge&color=yellow)
+

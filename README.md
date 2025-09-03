@@ -39,6 +39,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicollascode/nicollascode/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nicollascode/nicollascode/output/github-contribution-grid-snake.svg">
 </picture>
-![Profile Views](https://komarev.com/ghpvc/?username=Victor-Munizdev&color=blueviolet&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/Victor-Munizdev?style=for-the-badge&color=blue)
-![GitHub User's stars](https://img.shields.io/github/stars/Victor-Munizdev?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=NicollasCode&color=blueviolet&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/NicollasCode?style=for-the-badge&color=blue)
+![GitHub User's stars](https://img.shields.io/github/stars/NicollasCode?style=for-the-badge&color=yellow)

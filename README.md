@@ -41,6 +41,16 @@
 </picture>
 <div align="center">
 
+## 📜 Certificações & Conquistas
+
+<div align="center">
+
+![SENAI](https://img.shields.io/badge/SENAI-IA900-FF6B35?style=for-the-badge&logo=senai&logoColor=white)
+![FIAP](https://img.shields.io/badge/FIAP-Startup--for--Students-0066CC?style=for-the-badge&logo=fiap&logoColor=white)
+
+
+</div>
+
 ### 💡 *"Código limpo não é escrito seguindo regras. Código limpo é escrito por programadores que se importam."*
 
 **Disponível para projetos freelance e parcerias! 🚀**
